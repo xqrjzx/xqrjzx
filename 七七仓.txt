@@ -1,0 +1,14 @@
+{ "urls": [
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/xqrjzx/xqrjzx/main/【七七专线】/api.json", "name": "【七七专线】" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/xqrjzx/xqrjzx/main/【饭太硬包】/api.json", "name": "【饭太硬包】" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/xqrjzx/xqrjzx/main/【讴歌在线】/api.json", "name": "【讴歌在线】" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/xqrjzx/xqrjzx/main/【香雅情包】/api.json", "name": "【香雅情包】" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/xqrjzx/xqrjzx/main/【道长在线】/api.json", "name": "【道长在线】" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/xqrjzx/xqrjzx/main/【菜妮丝包】/api.json", "name": "【菜妮丝包】" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/xqrjzx/xqrjzx/main/【春莹天下】/api.json", "name": "【春莹天下】" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/xqrjzx/xqrjzx/main/【南风在线】/api.json", "name": "【南风在线】" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/xqrjzx/xqrjzx/main/【天天开心】/api.json", "name": "【天天开心】" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/xqrjzx/xqrjzx/main/【肥猫在线】/api.json", "name": "【肥猫在线】" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/xqrjzx/xqrjzx/main/【少儿频道】/api.json", "name": "【少儿频道】" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/xqrjzx/xqrjzx/main/【动漫频道】/api.json", "name": "【动漫频道】" }
+]}
