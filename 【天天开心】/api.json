@@ -913,7 +913,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./txt/alitoken.txt"
+            "ext": "./token.txt"
         },
         {
             "key": "csp_Zhaozy",
@@ -933,7 +933,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./txt/alitoken.txt"
+            "ext": "./token.txt"
         },
         {
             "key": "csp_Yisou",
@@ -943,7 +943,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./txt/alitoken.txt"
+            "ext": "./token.txt"
         },
         {
             "key": "csp_Upyunso",
@@ -953,7 +953,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./txt/alitoken.txt"
+            "ext": "./token.txt"
         },
         {
             "key": "csp_XYQHikerAL_云盘资源",
@@ -973,7 +973,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./txt/alitoken.txt"
+            "ext": "./token.txt"
         },
         {
             "key": "py_cctv",
