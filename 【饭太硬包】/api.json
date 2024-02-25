@@ -442,7 +442,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": "./token.txt+4k|auto|fhd"
         },
         {
             "key": "Zhaozy",
@@ -452,7 +452,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$zhaoziyuan777$$$qqq111"
+            "ext": "./token.txt+4k|auto|fhd$$$zhaoziyuan777$$$qqq111"
         },
         {
             "key": "PanSou",
@@ -462,7 +462,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": "./token.txt+4k|auto|fhd"
         },
         {
             "key": "UpYun",
@@ -472,7 +472,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": "./token.txt+4k|auto|fhd"
         },
         {
             "key": "PanSearch",
@@ -482,7 +482,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": "./token.txt+4k|auto|fhd"
         },
         {
             "key": "push_agent",
@@ -491,7 +491,7 @@
             "api": "csp_Push",
             "searchable": 0,
             "quickSearch": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": "./token.txt+4k|auto|fhd"
         },
         {
             "key": "Bili",
