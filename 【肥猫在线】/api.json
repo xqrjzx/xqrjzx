@@ -45,7 +45,7 @@
             "playerType": 2,
             "timeout": 30,
             "changeable": 0,
-            "ext": "./txt/token.txt"
+            "ext": "./token.txt"
         },
         {
             "key": "蜂鸟",
@@ -377,21 +377,21 @@
             "name": "🌖┃七夜┃网盘",
             "type": 3,
             "api": "csp_Dovx",
-            "ext": "./txt/token.txt"
+            "ext": "./token.txt"
         },
         {
             "key": "csp_search_Panda_pansearch",
             "name": "🚢┃盘搜┃网盘",
             "type": 3,
             "api": "csp_Pansou",
-            "ext": "./txt/token.txt"
+            "ext": "./token.txt"
         },
         {
             "key": "csp_search_Panda_盘搜",
             "name": "🚃┃盘搜┃网盘2",
             "type": 3,
             "api": "csp_PanSearch",
-            "ext": "./txt/token.txt"
+            "ext": "./token.txt"
         },
         {
             "key": "csp_search_Panda_UP云搜",
@@ -400,7 +400,7 @@
             "api": "csp_UpYun",
             "timeout": 30,
             "changeable": 0,
-            "ext": "./txt/token.txt"
+            "ext": "./token.txt"
         },
         {
             "key": "小纸条",
@@ -410,7 +410,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./txt/token.txt"
+            "ext": "./token.txt"
         },
         {
             "key": "drpy_哔哩",
@@ -501,7 +501,7 @@
             "api": "csp_PushAgent",
             "playerType": "1",
             "searchable": 0,
-            "ext": "./txt/token.txt"
+            "ext": "./token.txt"
         }
     ],
     "parses": [
