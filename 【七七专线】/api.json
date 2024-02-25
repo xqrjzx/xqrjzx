@@ -39,7 +39,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+      "ext": "./token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
          {
       "key": "csp_Nmys",
@@ -872,7 +872,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"
+            "ext": "./token.txt+4k|auto|fhd"
         },
         {
             "key": "PanSou",
@@ -882,7 +882,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"
+            "ext": "./token.txt+4k|auto|fhd"
         },
         {
             "key": "UpYun",
@@ -892,7 +892,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"
+            "ext": "./token.txt+4k|auto|fhd"
         },
         {
             "key": "七夜",
@@ -902,7 +902,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"
+            "ext": "./token.txt+4k|auto|fhd"
         },
         {
             "key": "cc",
